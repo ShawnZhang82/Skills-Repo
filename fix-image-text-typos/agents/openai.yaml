@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fix Image Text Typos"
+  short_description: "Correct Chinese typos in raster images while preserving layout."
+  default_prompt: "Fix the Chinese typos in this image and provide a corrected copy."
